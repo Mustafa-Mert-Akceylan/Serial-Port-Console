@@ -1,0 +1,22 @@
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\bin\Debug\Arduino Console.exe.config
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\bin\Debug\Arduino Console.exe
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\bin\Debug\Arduino Console.pdb
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.AssemblyReference.cache
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino_Console.Form1.resources
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino_Console.Properties.Resources.resources
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.GenerateResource.cache
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.CoreCompileInputs.cache
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.exe
+C:\Users\mert4\Desktop\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.pdb
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\bin\Debug\Arduino Console.exe.config
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\bin\Debug\Arduino Console.exe
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\bin\Debug\Arduino Console.pdb
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.AssemblyReference.cache
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino_Console.Form1.resources
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino_Console.Properties.Resources.resources
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.GenerateResource.cache
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.csproj.CoreCompileInputs.cache
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.exe
+C:\Users\mert4\Desktop\Mert\Arduino 2204 Proje\Arduino Console\Arduino Console\obj\Debug\Arduino Console.pdb
